@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <title>Welcome To Resume Generator</title>
+    <style>
+        /* Fade-out effect */
+        .fade-out {
+            opacity: 0;
+            transition: opacity 0.5s ease-in-out;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-r from-black via-gray-500 to-black">
+    <!-- header  -->
+    <header class="bg-gray-900 text-gray-100 py-4 text-center font-bold text-3xl">Resume Generator</header>
+
+    <br>
+
+    <!-- Main Content -->
+    <div class="flex flex-col items-center justify-center h-screen">
+        <h1 class="text-4xl font-bold mb-4">Welcome to Resume Generator</h1>
+        <p class="text-lg">Click the button below to start generating your resume.</p>
+        <button class="bg-teal-500 text-white py-2 px-4 rounded mt-4" onclick="generateResume()">Generate Resume</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

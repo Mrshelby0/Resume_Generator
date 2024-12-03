@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  },
+ "scripts": {
+  "start": "vite"
+ },
+  "dependencies": {
+    "vite": "^5.4.10"
+  }
+}
