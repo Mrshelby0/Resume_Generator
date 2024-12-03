@@ -12,8 +12,8 @@ An interactive web application for creating professional resumes effortlessly. B
 - **Interactive Elements:** Hover effects, transitions, and an advanced skill input system that converts text into boxed items.  
 
 ## Demo  
-![Form Example](path/to/form-image.png)  
-![Preview Example](path/to/preview-image.png)  
+![Form Example](form-image.png)  
+![Preview Example](preview-image.png)  
 
 ## Preview Feature  
 The **real-time preview** is the standout feature of this project. Every change made in the form is instantly reflected in the resume preview, demonstrating advanced **JavaScript DOM manipulation** and state handling. This feature enhances user interaction and showcases the app's dynamic nature.  
