@@ -12,7 +12,7 @@ An interactive web application for creating professional resumes effortlessly. B
 - **Interactive Elements:** Hover effects, transitions, and an advanced skill input system that converts text into boxed items.  
 
 ## Demo  
-![Form Example](form-image.png)  
+![Form Example]()  
 ![Preview Example](preview-image.png)  
 
 ## Preview Feature  
